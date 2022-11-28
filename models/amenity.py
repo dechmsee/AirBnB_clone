@@ -8,3 +8,4 @@ class Amenity(BaseModel):
     """Class for managing amenity objects"""
 
     name = ""
+
